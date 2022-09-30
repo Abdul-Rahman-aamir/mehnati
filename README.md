@@ -1,2 +1,0 @@
-# mehnati
-Mehnati system management
